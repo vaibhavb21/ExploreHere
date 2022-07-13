@@ -1,6 +1,12 @@
 # ExploreHere
 A web app using React, NodeJS, to find the weather in different locations (of choice or current) and find restaurants and hotels in the area using GoogleMaps API and 2 RapidAPI's. UI for the web app is created using Material UI. Use this app for finding weather and restaurants (filtered based on your preference) all in one place, for your convenience!
 
+
+<img width="1423" alt="Screen Shot 2022-07-12 at 6 05 36 PM" src="https://user-images.githubusercontent.com/54908724/178826463-fb424fbc-18f2-4a5e-a0a8-c012ba5a2426.png">
+
+<img width="1423" alt="Screen Shot 2022-07-12 at 6 05 15 PM" src="https://user-images.githubusercontent.com/54908724/178826486-2732b00f-a014-4ff9-aa7e-8e959f548976.png">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
